@@ -1,1 +1,1 @@
-<img width="900" height="325" alt="lilies-cover" src="https://github.com/user-attachments/assets/f02503be-1ba9-426d-92d5-af5847943449" />
+<img width="900" height="254" alt="lilies-cover-2" src="https://github.com/user-attachments/assets/8a895ff4-5977-4cb3-82ad-70d71b9ff688" />
